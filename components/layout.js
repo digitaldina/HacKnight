@@ -9,7 +9,6 @@ export default props => {
 
   return (
     <>
-            {/*TODO: DO NOT SHOW HEADER ON MOBILE*/}
 
       <Flex
         as="header"
@@ -20,12 +19,12 @@ export default props => {
           py: 3
         }}
       >
-        <Avatar light size={44}  sx={{mr:2}}/>
+        <Avatar light size={44}  sx={{ml:'auto',mr:1}}/>
         <Link href="/">
           <A variant="styles.navitem" 
             sx={{
                 fontFamily: 'Orbitron',
-                  mr:'auto'
+                  mr: 'auto'
             }}>HacKnight</A>
         </Link>
         <Flex sx={{ mx:'auto'}}>
@@ -55,7 +54,7 @@ export default props => {
        <A
           href="#contact"
           variant="styles.navitem"
-                  sx={{ fontSize:'80%'}}
+                  sx={{ fontSize:'80%',mx:'auto'}}
 
         >
           Contact 
