@@ -4,7 +4,7 @@ export default ({
   title = 'HacKnight',
   description = 'On November 2019, students are coming together for a fun filled 24-hours in Milton, Ontario, Canada in order to help their communities using technology.',
   image = 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2FhacKnightLogo.svg?v=1570572373963',
-  url = 'https://hackknight.tech'
+  url = 'https://hackknight.com'
 }) => (
   <Head>
     <title>{title}</title>
@@ -40,7 +40,7 @@ export default ({
         '@context': 'https://schema.org',
         '@type': 'Organization',
         name: 'hackknight',
-        url: 'https://hackknight.tech',
+        url: 'https://hackknight.com',
         logo: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2FhacKnightLogo.svg?v=1570572373963',
         sameAs: [
           
@@ -48,9 +48,9 @@ export default ({
         contactPoint: [
           {
             '@type': 'ContactPoint',
-            email: 'contact@hackknight.tech',
+            email: 'contact@hackknight.com',
             contactType: 'customer support',
-            url: 'https://hackknight.tech'
+            url: 'https://hackknight.com'
           }
         ]
       })}}
