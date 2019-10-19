@@ -6,6 +6,8 @@ import { Global } from '@emotion/core'
 import Meta from '../components/meta'
 import Layout from '../components/layout'
 import theme from '../components/theme'
+ 
+const glitchHost = "https://hackknight.glitch.me/"
 
 const fonts = `
 @font-face {

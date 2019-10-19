@@ -9,58 +9,58 @@ export default props => {
 
   return (
     <>
+            {/*TODO: DO NOT SHOW HEADER ON MOBILE*/}
+
       <Flex
         as="header"
         variant="container"
         sx={{
-          alignItems: 'center',
           color: '#000000',
           px: 3,
           py: 3
         }}
       >
-        <Avatar light size={48} sx={{ mr: 3 }} />
+        <Avatar light size={44}  sx={{mr:2}}/>
         <Link href="/">
           <A variant="styles.navitem" 
             sx={{
                 fontFamily: 'Orbitron',
-                  fontSize: 28
+                  mr:'auto'
             }}>HacKnight</A>
         </Link>
-        {/*spaces out the logo from buttons on right, to link to div just make divs in index.mdx w id's and then link httpsL//hackknight.glitch.me/# ____*/}
-        <Box sx={{ mx: 'auto' }} />
+        <Flex sx={{ mx:'auto'}}>
        <A
           href="#schedule"
           variant="styles.navitem"
-          sx={{ mr: [3, 1] }}
+                  sx={{ fontSize:'80%',mr:3}}
+
         >
           Schedule
         </A>
-         <Box sx={{ mx: '2' }} />
        <A
           href="#venue"
           variant="styles.navitem"
-          sx={{ mr: [3, 1] }}
-        >
+         sx={{ mx:'auto',fontSize:'80%',mr:3}}
+       >
           Venue
         </A>
-        <Box sx={{ mx: '2' }} />
        <A
           href="#faq"
           variant="styles.navitem"
-         sx={{ mr: [3, 1] }}
-        >
+                  sx={{  fontSize:'80%', mx:'auto',mr:3}}
+
+       >
           FAQs
         </A>
-        <Box sx={{ mx: '2' }} />
        <A
           href="#contact"
           variant="styles.navitem"
-          sx={{ mr: [1, 4] }}
+                  sx={{ fontSize:'80%'}}
+
         >
-          Contact Us
+          Contact 
         </A>
-       
+        </Flex>
       </Flex>
       <Box
         as="main"
@@ -118,7 +118,7 @@ export default props => {
             >
               <Icon glyph="instagram" size={36} />
             </A>
-            <A href="mailto:contact@hackknight.tech" title="Email" sx={{ mx: 2 }}>
+            <A href="mailto:contact@hackknight.com" title="Email" sx={{ mx: 2 }}>
               <Icon glyph="email" size={36} />
             </A>
           </Flex>
