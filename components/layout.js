@@ -117,7 +117,7 @@ export default props => {
             >
               <Icon glyph="instagram" size={36} />
             </A>
-            <A href="mailto:contact@hackknight.com" title="Email" sx={{ mx: 2 }}>
+            <A href="mailto:info@hackknight.com" title="Email" sx={{ mx: 2 }}>
               <Icon glyph="email" size={36} />
             </A>
           </Flex>

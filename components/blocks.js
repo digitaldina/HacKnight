@@ -62,7 +62,7 @@ export const Banner = props => (
       <Link href="https://airtable.com/shruNVHx3R4xQHO4b">
         <Button
           sx={{
-          bg: '#FFDC89',
+          bg: '#F6B265',
           color: 'white',
           fontFamily: 'Segoe UI'          
           }}>Register Now</Button>
@@ -149,7 +149,7 @@ export const Venue = props => (
       <Link href="https://airtable.com/shruNVHx3R4xQHO4b">
         <Button
           sx={{
-          bg: '#FFDC89',
+          bg: '#F6B265', 
           color: 'white',
           fontFamily: 'Segoe UI',
           mt: '1rem'
