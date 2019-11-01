@@ -4,7 +4,7 @@ import { Box, Button, Flex, Link } from 'rebass'
 export const Banner = props => (
   <Box
     sx={{
-      bg: '#B616D6',
+      bg: '#5F65F5',
       color: 'white',
       fontFamily: 'Segoe UI',
       textShadow: '0 2px 4px rgba(0,0,0,.I 75)',
@@ -62,7 +62,7 @@ export const Banner = props => (
       <Link href="https://airtable.com/shruNVHx3R4xQHO4b">
         <Button
           sx={{
-          bg: '#5F65F5',
+          bg: '#FFDC89',
           color: 'white',
           fontFamily: 'Segoe UI'          
           }}>Register Now</Button>
@@ -149,7 +149,7 @@ export const Venue = props => (
       <Link href="https://airtable.com/shruNVHx3R4xQHO4b">
         <Button
           sx={{
-          bg: '#5F65F5',
+          bg: '#FFDC89',
           color: 'white',
           fontFamily: 'Segoe UI',
           mt: '1rem'
