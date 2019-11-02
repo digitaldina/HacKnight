@@ -31,8 +31,16 @@ const Base = styled(Box)`
 
 const data = {
   sponsors: [
-    
-   
+    {
+      name:'Voiceflow',
+      link: 'https://www.voiceflow.com/',
+      image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fvoiceflow.png?v=1571862832639'
+    },
+    {
+      name:'Balsamiq',
+      link: 'https://balsamiq.com/',
+      image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fbalsamiq-logo-screen.svg?v=1572300229220'
+    },   
   ],
   additionalSupport: [
     {
