@@ -3,7 +3,7 @@ import Head from 'next/head'
 export default ({
   title = 'HacKnight',
   description = 'On November 2019, students are coming together for a fun filled 24-hours in Milton, Ontario, Canada in order to help their communities using technology.',
-  image = 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2FhacKnightLogo.svg?v=1570572373963',
+  image = 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Flogo(3).png?v=1572646181748',
   url = 'https://hackknight.com'
 }) => (
   <Head>
@@ -23,7 +23,7 @@ export default ({
     <meta name="theme-color" content="#2b34b6" />
     <link
       rel="shortcut icon"
-      href="https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fknight(1).svg?v=1567888806725"
+      href="https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2FGroup.svg?v=1572625597700"
     />
     
     <meta name="mobile-web-app-capable" content="yes" />
@@ -41,14 +41,14 @@ export default ({
         '@type': 'Organization',
         name: 'hackknight',
         url: 'https://hackknight.com',
-        logo: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2FhacKnightLogo.svg?v=1570572373963',
+        logo: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Flogo(3).png?v=1572646181748',
         sameAs: [
           
         ],
         contactPoint: [
           {
             '@type': 'ContactPoint',
-            email: 'contact@hackknight.com',
+            email: 'info@hackknight.com',
             contactType: 'customer support',
             url: 'https://hackknight.com'
           }

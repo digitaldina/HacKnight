@@ -127,7 +127,7 @@ const theme = merge(base, {
   },
   styles: {
     a: {
-      color: 'primary',
+      color: '#F6B265',
       cursor: 'pointer',
       ':hover, :focus': {
         color: 'secondary'

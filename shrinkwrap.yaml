@@ -12,6 +12,7 @@ dependencies:
   lodash: 4.17.15
   mapbox-gl: 1.3.1
   next: 9.0.3
+  nextjs-redirect: 1.0.2
   react: 16.9.0
   react-dom: 16.9.0
   react-spinners: 1.0.0
@@ -4218,6 +4219,10 @@ packages:
       react-dom: ^16.6.0
     resolution:
       integrity: sha512-Du0bGMdQDFq0itPm+OyaN/cKW20p9h6ZoEXnwIcop28L06pB45KcLEDdZgDZ75rk36UHiuwpRnjLMVzcbEqhRg==
+  /nextjs-redirect/1.0.2:
+    dev: false
+    resolution:
+      integrity: sha512-z8KxMHh+2U3b46NpkUxSDDQJthQjATcP3AQDJsjgscQauOoFFQ3CJIWBhLdCair3F5QsXj8OPxTiYv3s+9duHw==
   /no-case/2.3.2:
     dependencies:
       lower-case: 1.1.4
@@ -6199,6 +6204,7 @@ specifiers:
   lodash: ^4.17.15
   mapbox-gl: ^1.3.1
   next: ^9.0.3
+  nextjs-redirect: ^1.0.2
   react: ^16.9.0
   react-dom: ^16.9.0
   react-spinners: ^1.0.0
