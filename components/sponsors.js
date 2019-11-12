@@ -34,7 +34,7 @@ const data = {
     {
       name: 'Zeit',
       link: 'https://www.zeit.co',
-      image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fzeit.png?v=1573267538022'
+      image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fpasted%20image%200.png?v=1573600736606'
     },
     {
       name:'Voiceflow',
