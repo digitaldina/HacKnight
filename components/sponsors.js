@@ -32,6 +32,16 @@ const Base = styled(Box)`
 const data = {
   sponsors: [
     {
+      name: 'New Relic',
+      link: 'https://newrelic.com/',
+      image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fnewrelic.png?v=1573916104956'
+    },
+    {
+      name: 'Human Code',
+      link: 'https://humancode.ca/',
+      image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fhumancode.PNG?v=1573916108859'
+    },
+    {
       name: 'Zeit',
       link: 'https://www.zeit.co',
       image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fpasted%20image%200.png?v=1573600736606'
