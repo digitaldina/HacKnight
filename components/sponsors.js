@@ -42,6 +42,11 @@ const data = {
       image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fhumancode.PNG?v=1573916108859'
     },
     {
+      name: 'StickerMule',
+      link: 'stickermule.com',
+      image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fstickermule.png?v=1573927856110'
+    },
+    {
       name: 'Zeit',
       link: 'https://www.zeit.co',
       image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fpasted%20image%200.png?v=1573600736606'
