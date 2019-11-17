@@ -32,6 +32,11 @@ const Base = styled(Box)`
 const data = {
   sponsors: [
     {
+      name: 'TakingITGlobal',
+      link: 'https://www.tigweb.org/',
+      image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Ftakingitglobal.png?v=1573998769387'
+    },
+    {
       name: 'New Relic',
       link: 'https://newrelic.com/',
       image: 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fnewrelic.png?v=1573916104956'
