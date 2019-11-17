@@ -140,7 +140,7 @@ export const Venue = props => (
         fontSize: [1, 2],
       ...props.sx
     }}>
-  HacKnight 2019's venue will be announced on Oct 20th, 2019. Register below to get updates. Along with Mentors and Special Guests, Teachers with background checks will be around to help and supervise at HacKnight. 
+  HacKnight 2019 will be held at the Italian Canadian Club in Milton, Ontario. Along with Mentors and Special Guests, Adults with background checks will be around to help and supervise at HacKnight. 
     <Flex
       sx={{
           justifyContent: 'center'
