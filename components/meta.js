@@ -23,7 +23,7 @@ export default ({
     <meta name="theme-color" content="#2b34b6" />
     <link
       rel="shortcut icon"
-      href="https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2FGroup.svg?v=1572625597700"
+      href="https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Fcrescent-moon.svg?v=1574437998711"
     />
     
     <meta name="mobile-web-app-capable" content="yes" />
