@@ -25,7 +25,7 @@ export default props => {
             sx={{
                 fontFamily: 'Orbitron',
                   mr: 'auto'
-            }}>HacKnight</A>
+            }}>HackNight</A>
         </Link>
         <Flex sx={{ mx:'auto'}}>
        <A
