@@ -1,7 +1,7 @@
 import Head from 'next/head'
 
 export default ({
-  title = 'HacKnight',
+  title = 'HackNight',
   description = 'On November 2019, students are coming together for a fun filled 14-hours in Milton, Ontario, Canada in order to help their communities using technology.',
   image = 'https://cdn.glitch.com/0ac33e0f-67fc-4d7d-bb15-8c3456d17607%2Flogo(3).png?v=1572646181748',
   url = 'https://hackknight.com'
